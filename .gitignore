@@ -1,0 +1,11 @@
+*.log
+*.int
+*.rsc
+*.dmb
+*.lk
+info.json
+/deletions
+/data/logs
+/data/player_saves
+/data/ban_unban_log.txt
+/data/investigate
